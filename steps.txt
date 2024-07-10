@@ -13,3 +13,5 @@ ChatGPT prompt to generate arch diagrams:
 code using python package "diagrams"
 https://github.com/mingrammer/diagrams"
 
+Example based on: https://levelup.gitconnected.com/accelerate-your-data-journey-practical-guide-to-s3-to-rds-etl-using-lambda-daf14010a68f
+
