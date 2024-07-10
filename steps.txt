@@ -1,0 +1,15 @@
+
+brew install graphviz
+
+python3 -m venv diagram
+
+source diagram/bin/activate
+
+pip install diagrams
+
+ChatGPT prompt to generate arch diagrams:
+
+"for the following solution ‹your-solution-details› and generete the architecture
+code using python package "diagrams"
+https://github.com/mingrammer/diagrams"
+
